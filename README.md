@@ -1,4 +1,4 @@
-# Spotify Audio Features by User's Playlist
+# Spotify Audio Features
 
 * A Project for automatically get tracks audio features from user's `Spotify` playlists by calling `spotify-api`.
 
