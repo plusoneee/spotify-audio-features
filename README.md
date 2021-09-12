@@ -2,13 +2,13 @@
 
 * A Project for automatically get tracks audio features from user's `Spotify` playlists by calling `spotify-api`.
 
-## Python3 Requirement
+## Python3 requirements
 ```
 spotipy
 python-dotenv
 ```
 
-## Before the start
+## Before starting
 You need to have an [Spotify](https://www.spotify.com/) account, and then create your Playlist(s).
 
 Next, Write your (Spotify-api) personal information in `.env.example` file by following the steps below:
