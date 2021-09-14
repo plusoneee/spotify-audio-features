@@ -37,6 +37,10 @@ scope = 'user-library-read'
 python main.py
 ```
 
+#### > Preview:
+
+![](/Users/plusone/spotify-audio-features/run_preview.gif)
+
 ## About:
 
 * More about Audio features at [spotipy](https://developer.spotify.com/documentation/web-api/reference/tracks/get-several-audio-features/).
