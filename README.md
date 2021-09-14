@@ -37,9 +37,9 @@ scope = 'user-library-read'
 python main.py
 ```
 
-#### > Preview:
+#### Preview:
 
-![](/Users/plusone/spotify-audio-features/run_preview.gif)
+![preview](./run_preview.gif)
 
 ## About:
 
